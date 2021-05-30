@@ -1,10 +1,10 @@
 # Home Automation with Home Assistant
 
-## Z-wave Integration
+## Z-Wave Integration
 
-### Schlage Locks
-### inovelli Light Switch
-### Flume Water Sensor
-### Blink Camera
-### Ecobee
-### Landroid
+### 	Schlage Locks
+### 	Inovelli Light Switch
+### 	Flume Water Sensor
+### 	Blink Camera
+### 	Ecobee
+### 	Landroid
