@@ -2,8 +2,9 @@
 
 ## Z-Wave Integration
 
-### 	Inovelli Light Switch
-### 	Flume Water Sensor
-### 	Ecobee
-### 	Google Home
-### 	Landroid
+Inovelli Light Switch
+Flume Water Sensor
+Ecobee
+Alexa
+Google Home
+Landroid
