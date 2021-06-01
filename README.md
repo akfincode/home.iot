@@ -7,4 +7,4 @@
 ##### Ecobee
 ##### Alexa
 ##### Google Home
-##### Landroid
+##### Worx Landroid
