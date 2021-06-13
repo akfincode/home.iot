@@ -8,3 +8,5 @@
 ##### Alexa
 ##### Google Home
 ##### Worx Landroid
+
+![inline](assets/auto.png)
