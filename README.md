@@ -1,4 +1,4 @@
-# Home Automation with [Home Assistant](https://www.home-assistant.io/)
+# Home Smart Automation IoT with [Home Assistant](https://www.home-assistant.io/)
 
 ## Z-Wave Integration
 
