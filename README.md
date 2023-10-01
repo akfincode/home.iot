@@ -2,6 +2,7 @@
 
 ## Z-Wave Integration
 
+##### Home Assistant Hass.io
 ##### Inovelli Light Switch
 ##### Flume Water Sensor
 ##### Ecobee
